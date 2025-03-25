@@ -1,4 +1,4 @@
-Perguntas e respostas, tomei essa iniciativa para aprofundar os estudos na criação de tutoriais sobre o Unnichat
+Criação de tutoriais sobre o Unnichat
 
 <html lang="pt-BR">
 <head>
@@ -144,7 +144,7 @@ Perguntas e respostas, tomei essa iniciativa para aprofundar os estudos na cria�
         
         <header>
             <h1><span class="emoji">�</span>Teste Unnichat - Respostas</h1>
-            <p class="intro-text">Respostas completas do questionário Unnichat</p>
+            <p class="intro-text">Treinamentos e reflexões Unnichat</p>
         </header>
 
         <div class="part">

@@ -1,5 +1,3 @@
-FORMULÁRIO SendFlow/Unnichat COM RESPOSTAS:
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -150,6 +148,9 @@ FORMULÁRIO SendFlow/Unnichat COM RESPOSTAS:
         <div class="part">
             <h2>PARTE 1</h2>
             <p>Considere o seguinte cenário: Você presta suporte para uma ferramenta de automação de WhatsApp.</p>
+
+	            <p>Você presta suporte para uma ferramenta de automação de WhatsApp.</p>
+
             
             <div class="question">
                 <label>a. Um cliente trouxe a você uma dúvida a qual você não tem certeza absoluta da resposta. Qual é a sua conduta nesse caso?</label>
@@ -218,7 +219,7 @@ FORMULÁRIO SendFlow/Unnichat COM RESPOSTAS:
         
         <div class="part">
             <h2>PARTE 2</h2>
-            <p>Observe essa tela:</p>
+            <p>Com base nas suas observações, responda as perguntas abaixo:</p>
             
             <img src="https://gabriellemoreira.com.br/wp-content/uploads/2025/03/Captura-de-Tela-2025-03-24-as-23.10.17.png" alt="Tela do Unnichat" class="screen-image">
             
